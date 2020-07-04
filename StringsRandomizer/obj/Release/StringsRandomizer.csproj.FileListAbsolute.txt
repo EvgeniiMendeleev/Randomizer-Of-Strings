@@ -1,0 +1,9 @@
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\bin\Release\StringsRandomizer.exe.config
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\bin\Release\StringsRandomizer.exe
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\bin\Release\StringsRandomizer.pdb
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\obj\Release\StringsRandomizer.csprojResolveAssemblyReference.cache
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\obj\Release\StringsRandomizer.Form1.resources
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\obj\Release\StringsRandomizer.Properties.Resources.resources
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\obj\Release\StringsRandomizer.csproj.GenerateResource.Cache
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\obj\Release\StringsRandomizer.exe
+C:\Users\Иришка\Documents\Visual Studio 2013\Projects\StringsRandomizer\StringsRandomizer\obj\Release\StringsRandomizer.pdb
